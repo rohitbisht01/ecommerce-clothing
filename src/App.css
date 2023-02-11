@@ -2,3 +2,12 @@ body {
   font-family: "Gentium Book Plus", serif;
   padding: 20px 60px;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
